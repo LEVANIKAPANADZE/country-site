@@ -14,7 +14,14 @@
     "demonym": "Afghan",
     "area": 652230,
     "timezones": ["UTC+04:30"],
-    "borders": ["IRN", "PAK", "TKM", "UZB", "TJK", "CHN"],
+    "borders": [
+      "Iran",
+      "Pakistan",
+      "Turkmenistan",
+      "Uzbekistan",
+      "Tajikistan",
+      "China"
+    ],
     "nativeName": "افغانستان",
     "numericCode": "004",
     "flags": {
@@ -145,7 +152,7 @@
     "area": 28748,
     "gini": 33.2,
     "timezones": ["UTC+01:00"],
-    "borders": ["MNE", "GRC", "MKD", "UNK"],
+    "borders": ["Montenegro", "Greece", "North Macedonia", "Kosovo"],
     "nativeName": "Shqipëria",
     "numericCode": "008",
     "flags": {
